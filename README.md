@@ -3,11 +3,9 @@
 # 👋 Hey, I'm Calvin
 ### aka **Flourish0x**
 
-💻 Rookie programmer  
-📅 Coding since **2019**  
+💻 Somewhat a programmer  
 🎂 19 years old  
 ⚡ Mainly working with **JavaScript** and **C#**  
-🚀 Learning, building, breaking things, and improving one project at a time  
 
 <br>
 
@@ -24,14 +22,12 @@
 const Calvin = {
     username: "Flourish0x",
     age: 19,
-    codingSince: 2019,
     languages: ["JavaScript", "C#"],
     status: "Learning and building",
-    currentGoal: "Become better than yesterday"
+    currentGoal: "Get a job at a major tech company (eg. Microsoft, Nintendo, etc)"
 };
 ```
 
-- 🔥 Started coding in **2019**
 - 🧠 Always learning something new
 - ⚙️ Main focus: **JavaScript** + **C#**
 - 🚧 Working on projects and building experience
@@ -61,33 +57,12 @@ const Calvin = {
 
 ---
 
-## 🚧 Project Tracker
-
-```txt
-📦 Current Progress
-
-├── 🔒 Private Project [██████░░░░] 60%
-│   └── In development
-
-└── 🚀 Future Public Projects
-    └── Coming soon...
-```
-
----
-
 ## 🎯 Current Goals
 
 - [ ] Build more public projects
-- [ ] Get better with JavaScript
-- [ ] Improve C# skills
+- [ ] Improve C# & JS skills
 - [ ] Learn more software development concepts
 - [ ] Keep shipping projects
-
----
-
-## ⚡ Fun Fact
-
-> I started coding in 2019 and I'm still chasing that feeling of finally fixing a bug after staring at it for 3 hours 😭
 
 ---
 
