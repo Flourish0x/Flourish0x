@@ -24,7 +24,7 @@ const Calvin = {
     age: 19,
     languages: ["JavaScript", "C#"],
     status: "Learning and building",
-    currentGoal: "Get a job at a major tech company (eg. Microsoft, Nintendo, etc)"
+    dream: "Get a job at a major tech company (eg. Microsoft, Nintendo, etc)"
 };
 ```
 
