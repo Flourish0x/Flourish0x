@@ -22,7 +22,6 @@
 const Calvin = {
     username: "Flourish0x",
     age: 19,
-    languages: ["JavaScript", "C#"],
     status: "Learning and building",
     dream: "Get a job at a major tech company (eg. Microsoft, Nintendo, etc)"
 };
@@ -46,10 +45,6 @@ const Calvin = {
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Flourish0x&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flourish0x&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <img src="https://streak-stats.demolab.com?user=Flourish0x&theme=tokyonight&hide_border=true"/>
 
