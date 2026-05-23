@@ -27,10 +27,10 @@ const Calvin = {
 };
 ```
 
-- 🧠 Always learning something new
-- ⚙️ Main focus: **JavaScript** + **C#**
-- 🚧 Working on projects and building experience
-- 📈 Improving one step at a time
+- 🧠 Always learning something new.
+- ⚙️ Main focus: **JavaScript** + **C#**, but I'm open to learning new languages and expand my knowledge.
+- 🚧 Working on projects and building experience for the future.
+- 📈 Improving one step at a time.
 
 ---
 
@@ -54,10 +54,10 @@ const Calvin = {
 
 ## 🎯 Current Goals
 
-- [ ] Build more public projects
-- [ ] Improve C# & JS skills
-- [ ] Learn more software development concepts
-- [ ] Keep shipping projects
+- [ ] Build more public projects.
+- [ ] Improve C# & JS skills, and also learn C++ somewhere along the way.
+- [ ] Learn more software development concepts.
+- [ ] Keep shipping projects.
 
 ---
 
