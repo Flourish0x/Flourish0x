@@ -1,51 +1,62 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:4F46E5,100:7C3AED&height=180&section=header&text=Flourish0x&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Calvin%20%7C%20JavaScript%20%2B%20C%23&descAlignY=55&descSize=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0D1117,45:312E81,100:7C3AED&text=Flourish0x&fontColor=FFFFFF&fontSize=56&animation=fadeIn&stroke=8B5CF6&strokeWidth=1"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Building+cool+stuff;Learning+as+I+go;Probably+debugging+right+now" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&repeat=true&width=650&height=45&lines=JavaScript+%2B+C%23;building+whatever+seems+cool;music+%2F+code+%2F+random+ideas;probably+debugging+something..." />
 
 <br>
 
-<img src="https://img.shields.io/github/followers/Flourish0x?style=for-the-badge&logo=github&label=Followers&color=6366f1"/>
-<img src="https://komarev.com/ghpvc/?username=Flourish0x&style=for-the-badge&color=7c3aed&label=Profile+Views"/>
+<a href="https://github.com/Flourish0x">
+<img src="https://img.shields.io/github/followers/Flourish0x?style=flat-square&logo=github&label=followers&labelColor=161B22&color=7C3AED"/>
+</a>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=Flourish0x&style=flat-square&label=views&labelColor=161B22&color=7C3AED"/>
 
 </div>
 
----
+<br>
 
-## 👋 About Me
+## `> about`
 
-I'm Calvin, also known as **Flourish0x**.
+```text
+Calvin / Flourish0x
 
-I'm a self-taught developer mainly working with **JavaScript** and **C#**, and I like building websites, apps, tools, and anything else that seems interesting enough to make.
+Self-taught developer mostly working with JavaScript and C#.
+I build websites, desktop apps, random tools, and whatever else
+sounds interesting enough to turn into a project.
 
-I’m also into music production, UI design, and making projects feel clean and polished.
+Also into music production + UI design.
+```
 
----
+<br>
 
-## 🛠️ Tech
+## `> stack`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,cs,html,css,git,github,vscode,visualstudio" />
+<img src="https://skillicons.dev/icons?i=js,cs,html,css,nodejs,git,github,vscode,visualstudio&theme=dark" />
 
 </div>
 
----
+<br>
 
-## 📊 GitHub Stats
+## `> github`
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Flourish0x&show_icons=true&theme=transparent&hide_border=false&bg_color=161b22&title_color=7c3aed&text_color=c9d1d9&icon_color=a78bfa&border_color=30363d&rank_icon=github" />
+<img width="92%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Flourish0x&theme=github_dark&title_color=A78BFA&text_color=C9D1D9&bg_color=0D1117&border_color=30363D&icon_color=8B5CF6&chart_color=8B5CF6&animation=load&duration=2.5" />
 
-<img height="170" src="https://streak-stats.demolab.com?user=Flourish0x&theme=transparent&hide_border=false&background=161b22&border=30363d&ring=8b5cf6&fire=8b5cf6&currStreakLabel=c9d1d9&sideLabels=c9d1d9&sideNums=7c3aed&dates=8b949e&currStreakNum=7c3aed" />
+<br><br>
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Flourish0x&theme=github_dark&title_color=A78BFA&text_color=C9D1D9&bg_color=0D1117&border_color=30363D&icon_color=8B5CF6&chart_color=8B5CF6&animation=stagger&duration=2&hide_logo=true" />
+
+<img width="48%" src="https://streak-stats.demolab.com?user=Flourish0x&hide_border=false&background=0D1117&border=30363D&stroke=30363D&ring=8B5CF6&fire=A78BFA&currStreakNum=A78BFA&sideNums=C9D1D9&currStreakLabel=A78BFA&sideLabels=8B949E&dates=6E7681" />
 
 </div>
 
----
+<br>
 
-## 🐍 Contributions
+## `> contributions`
 
 <div align="center">
 
@@ -59,20 +70,28 @@ I’m also into music production, UI design, and making projects feel clean and 
     srcset="https://raw.githubusercontent.com/Flourish0x/Flourish0x/output/github-contribution-grid-snake.svg"
   />
   <img
+    width="95%"
     alt="GitHub contribution snake"
-    src="https://raw.githubusercontent.com/Flourish0x/Flourish0x/output/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/Flourish0x/Flourish0x/output/github-contribution-grid-snake-dark.svg"
   />
 </picture>
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-**Flourish0x**  
-still learning • still building
+<sub>
+<code>still learning</code>
+&nbsp;•&nbsp;
+<code>still building</code>
+&nbsp;•&nbsp;
+<code>still somehow debugging</code>
+</sub>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:4F46E5,100:7C3AED&height=90&section=footer"/>
+<br><br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:7C3AED,50:312E81,100:0D1117"/>
 
 </div>
