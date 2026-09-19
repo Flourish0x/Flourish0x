@@ -47,6 +47,7 @@ const Calvin = {
     goal: "Work in tech professionally someday"
 };
 ```
+
 ## ⚡ What I'm Into
 
 * 🌐 Building websites and web apps
@@ -90,7 +91,7 @@ const Calvin = {
 
 <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Flourish0x&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
 
-<br>
+<br><br>
 
 <img src="https://streak-stats.demolab.com?user=Flourish0x&theme=tokyonight&hide_border=true&background=00000000" />
 
@@ -102,7 +103,7 @@ const Calvin = {
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Flourish0x&theme=tokyo-night&hide_border=true&area=true" />
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Flourish0x&theme=tokyonight" />
 
 </div>
 
@@ -121,33 +122,26 @@ const Calvin = {
 
 ---
 
-## 💭 How I Usually Learn
+## 🐍 Contributions
 
-```text
-get idea
-   ↓
-start project
-   ↓
-"this should be easy"
-   ↓
-break everything
-   ↓
-google / docs / experiment
-   ↓
-somehow fix it
-   ↓
-learn something
-   ↓
-add another feature for no reason
-   ↓
-repeat
-```
+<div align="center">
 
-That's pretty much been my programming experience.
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Flourish0x/Flourish0x/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Flourish0x/Flourish0x/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub contribution snake"
+    src="https://raw.githubusercontent.com/Flourish0x/Flourish0x/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
-I still have a lot I want to learn, but that's kinda the whole reason I like doing this.
-
-There's always something else to build.
+</div>
 
 ---
 
