@@ -1,97 +1,49 @@
-<div align="center">
+# Hey, I'm Calvin 👋
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0D1117,45:312E81,100:7C3AED&text=Flourish0x&fontColor=FFFFFF&fontSize=56&animation=fadeIn&stroke=8B5CF6&strokeWidth=1"/>
+`Flourish0x`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&repeat=true&width=650&height=45&lines=JavaScript+%2B+C%23;building+whatever+seems+cool;music+%2F+code+%2F+random+ideas;probably+debugging+something..." />
+![Followers](https://img.shields.io/github/followers/Flourish0x?style=flat-square&logo=github&label=followers&labelColor=21262d&color=7c3aed)
+![Views](https://komarev.com/ghpvc/?username=Flourish0x&style=flat-square&label=profile+views&labelColor=21262d&color=7c3aed)
 
-<br>
+I’m a self-taught developer mainly working with **JavaScript** and **C#**.  
+I build websites, apps, tools, music-related software, and whatever else seems interesting enough to turn into a project.
 
-<a href="https://github.com/Flourish0x">
-<img src="https://img.shields.io/github/followers/Flourish0x?style=flat-square&logo=github&label=followers&labelColor=161B22&color=7C3AED"/>
-</a>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=Flourish0x&style=flat-square&label=views&labelColor=161B22&color=7C3AED"/>
+## Currently working on
 
-</div>
+<p align="center">
+  <img src="./assets/valorahub-card.svg" width="100%" alt="Valorahub — private project" />
+</p>
 
-<br>
+<p align="center">
+  <img src="./assets/vaulted-card.svg" width="100%" alt="Vaulted — private project" />
+</p>
 
-## `> about`
+## My Tech Stack
 
-```text
-Calvin / Flourish0x
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-21262D?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![C#](https://img.shields.io/badge/C%23-21262D?style=flat-square&logo=dotnet&logoColor=9B4F96)
+![C++](https://img.shields.io/badge/C++-21262D?style=flat-square&logo=cplusplus&logoColor=659AD2)
+![HTML5](https://img.shields.io/badge/HTML5-21262D?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-21262D?style=flat-square&logo=css3&logoColor=1572B6)
+![Swift](https://img.shields.io/badge/Swift-21262D?style=flat-square&logo=swift&logoColor=F05138)
 
-Self-taught developer mostly working with JavaScript and C#.
-I build websites, desktop apps, random tools, and whatever else
-sounds interesting enough to turn into a project.
+### Backend / Data
+![Node.js](https://img.shields.io/badge/Node.js-21262D?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
+![Express](https://img.shields.io/badge/Express-21262D?style=flat-square&logo=express&logoColor=FFFFFF)
+![MongoDB](https://img.shields.io/badge/MongoDB-21262D?style=flat-square&logo=mongodb&logoColor=47A248)
+![REST APIs](https://img.shields.io/badge/REST_APIs-21262D?style=flat-square&logo=fastapi&logoColor=A78BFA)
 
-Also into music production + UI design.
-```
+### Tools
+![Git](https://img.shields.io/badge/Git-21262D?style=flat-square&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-21262D?style=flat-square&logo=github&logoColor=FFFFFF)
+![VS Code](https://img.shields.io/badge/VS_Code-21262D?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-21262D?style=flat-square&logo=visualstudio&logoColor=9B4F96)
+![Xcode](https://img.shields.io/badge/Xcode-21262D?style=flat-square&logo=xcode&logoColor=147EFB)
+![CMake](https://img.shields.io/badge/CMake-21262D?style=flat-square&logo=cmake&logoColor=064F8C)
 
-<br>
+## Stats
 
-## `> stack`
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=js,cs,html,css,nodejs,git,github,vscode,visualstudio&theme=dark" />
-
-</div>
-
-<br>
-
-## `> github`
-
-<div align="center">
-
-<img width="92%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Flourish0x&theme=github_dark&title_color=A78BFA&text_color=C9D1D9&bg_color=0D1117&border_color=30363D&icon_color=8B5CF6&chart_color=8B5CF6&animation=load&duration=2.5" />
-
-<br><br>
-
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Flourish0x&theme=github_dark&title_color=A78BFA&text_color=C9D1D9&bg_color=0D1117&border_color=30363D&icon_color=8B5CF6&chart_color=8B5CF6&animation=stagger&duration=2&hide_logo=true" />
-
-<img width="48%" src="https://streak-stats.demolab.com?user=Flourish0x&hide_border=false&background=0D1117&border=30363D&stroke=30363D&ring=8B5CF6&fire=A78BFA&currStreakNum=A78BFA&sideNums=C9D1D9&currStreakLabel=A78BFA&sideLabels=8B949E&dates=6E7681" />
-
-</div>
-
-<br>
-
-## `> contributions`
-
-<div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Flourish0x/Flourish0x/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Flourish0x/Flourish0x/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    width="95%"
-    alt="GitHub contribution snake"
-    src="https://raw.githubusercontent.com/Flourish0x/Flourish0x/output/github-contribution-grid-snake-dark.svg"
-  />
-</picture>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<sub>
-<code>still learning</code>
-&nbsp;•&nbsp;
-<code>still building</code>
-&nbsp;•&nbsp;
-<code>still somehow debugging</code>
-</sub>
-
-<br><br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:7C3AED,50:312E81,100:0D1117"/>
-
-</div>
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=Flourish0x&hide_border=false&background=0D1117&border=30363D&stroke=30363D&ring=8B5CF6&fire=A78BFA&currStreakNum=A78BFA&sideNums=C9D1D9&currStreakLabel=A78BFA&sideLabels=8B949E&dates=6E7681" alt="GitHub streak" />
+</p>
