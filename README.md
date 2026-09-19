@@ -1,15 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:4F46E5,100:7C3AED&height=200&section=header&text=Flourish0x&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Calvin%20%7C%20Programming%20%2B%20Music&descAlignY=55&descSize=17"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:4F46E5,100:7C3AED&height=180&section=header&text=Flourish0x&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Calvin%20%7C%20JavaScript%20%2B%20C%23&descAlignY=55&descSize=16"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=650&lines=JavaScript+%2B+C%23;Building+whatever+seems+cool;Learning+by+breaking+things+first;Probably+debugging+something+right+now..." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Building+cool+stuff;Learning+as+I+go;Probably+debugging+right+now" />
 
 <br>
 
-<a href="https://github.com/Flourish0x">
 <img src="https://img.shields.io/github/followers/Flourish0x?style=for-the-badge&logo=github&label=Followers&color=6366f1"/>
-</a>
-
 <img src="https://komarev.com/ghpvc/?username=Flourish0x&style=for-the-badge&color=7c3aed&label=Profile+Views"/>
 
 </div>
@@ -18,44 +15,11 @@
 
 ## 👋 About Me
 
-```js
-const Calvin = {
-    username: "Flourish0x",
-    age: 19,
+I'm Calvin, also known as **Flourish0x**.
 
-    mainLanguages: [
-        "JavaScript",
-        "C#"
-    ],
+I'm a self-taught developer mainly working with **JavaScript** and **C#**, and I like building websites, apps, tools, and anything else that seems interesting enough to make.
 
-    learning: [
-        "C++",
-        "Backend Development",
-        "Software Architecture"
-    ],
-
-    interests: [
-        "Web Development",
-        "Desktop Apps",
-        "Music Software",
-        "UI / UX",
-        "APIs",
-        "Random ideas that turn into full projects"
-    ],
-
-    status: "Building, learning, and fixing whatever I broke",
-    goal: "Work in tech professionally someday"
-};
-```
-
-## ⚡ What I'm Into
-
-* 🌐 Building websites and web apps
-* 🖥️ Desktop applications and tools
-* 🔌 Working with APIs and backend systems
-* 🎵 Music production and music-related software
-* 🧪 Experimenting with stuff I've never used before
-* 💡 Turning random ideas into actual somewhat cool working projects
+I’m also into music production, UI design, and making projects feel clean and polished.
 
 ---
 
@@ -63,62 +27,21 @@ const Calvin = {
 
 <div align="center">
 
-### Main
-
-<img src="https://skillicons.dev/icons?i=js,cs,html,css" />
-
-<br><br>
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
-
-<br><br>
-
-### Learning More
-
-<img src="https://skillicons.dev/icons?i=cpp,nodejs" />
+<img src="https://skillicons.dev/icons?i=js,cs,html,css,git,github,vscode,visualstudio" />
 
 </div>
 
 ---
 
-## 📊 GitHub
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=Flourish0x&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Flourish0x&show_icons=true&theme=transparent&hide_border=false&bg_color=161b22&title_color=7c3aed&text_color=c9d1d9&icon_color=a78bfa&border_color=30363d&rank_icon=github" />
 
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Flourish0x&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=Flourish0x&theme=tokyonight&hide_border=true&background=00000000" />
+<img height="170" src="https://streak-stats.demolab.com?user=Flourish0x&theme=transparent&hide_border=false&background=161b22&border=30363d&ring=8b5cf6&fire=8b5cf6&currStreakLabel=c9d1d9&sideLabels=c9d1d9&sideNums=7c3aed&dates=8b949e&currStreakNum=7c3aed" />
 
 </div>
-
----
-
-## 📈 Activity
-
-<div align="center">
-
-<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Flourish0x&theme=tokyonight" />
-
-</div>
-
----
-
-## 🚧 Current Goals
-
-* [ ] Build more projects that I'm actually proud enough to make public
-* [ ] Keep improving at **JavaScript** and **C#**
-* [ ] Get better with backend development
-* [ ] Understand larger software projects and how they're structured
-* [ ] Write cleaner code that doesn't make future me angry
-* [ ] Keep improving at UI / UX
-* [ ] Contribute to other projects
-* [ ] Eventually work somewhere in the tech industry
 
 ---
 
@@ -147,14 +70,9 @@ const Calvin = {
 
 <div align="center">
 
-### still learning • still building • probably debugging
+**Flourish0x**  
+still learning • still building
 
-<br>
-
-**Flourish0x**
-
-<br><br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:4F46E5,100:7C3AED&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:4F46E5,100:7C3AED&height=90&section=footer"/>
 
 </div>
