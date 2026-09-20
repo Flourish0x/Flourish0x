@@ -39,8 +39,8 @@ I build websites, apps, tools, music-related software, and whatever else seems i
 ![GitHub](https://img.shields.io/badge/GitHub-21262D?style=flat-square&logo=github&logoColor=FFFFFF)
 ![VS Code](https://img.shields.io/badge/VS_Code-21262D?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-21262D?style=flat-square&logo=visualstudio&logoColor=9B4F96)
-![Xcode](https://img.shields.io/badge/Xcode-21262D?style=flat-square&logo=xcode&logoColor=147EFB)
-![CMake](https://img.shields.io/badge/CMake-21262D?style=flat-square&logo=cmake&logoColor=064F8C)
+![Notepad++](https://img.shields.io/badge/Notepad++-21262D?style=flat-square&logo=notepadplusplus&logoColor=90E59A)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-21262D?style=flat-square&logo=cloudflare&logoColor=F38020)
 
 ## Stats
 
