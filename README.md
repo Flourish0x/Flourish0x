@@ -26,7 +26,6 @@ I build websites, apps, tools, music-related software, and whatever else seems i
 ![C++](https://img.shields.io/badge/C++-21262D?style=flat-square&logo=cplusplus&logoColor=659AD2)
 ![HTML5](https://img.shields.io/badge/HTML5-21262D?style=flat-square&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-21262D?style=flat-square&logo=css3&logoColor=1572B6)
-![Swift](https://img.shields.io/badge/Swift-21262D?style=flat-square&logo=swift&logoColor=F05138)
 
 ### Backend / Data
 ![Node.js](https://img.shields.io/badge/Node.js-21262D?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
@@ -40,7 +39,6 @@ I build websites, apps, tools, music-related software, and whatever else seems i
 ![VS Code](./assets/vscode-badge.svg)
 ![Visual Studio](./assets/visual-studio-badge.svg)
 ![Notepad++](https://img.shields.io/badge/Notepad++-21262D?style=flat-square&logo=notepadplusplus&logoColor=90E59A)
-![MongoDB](https://img.shields.io/badge/MongoDB-21262D?style=flat-square&logo=mongodb&logoColor=47A248)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-21262D?style=flat-square&logo=cloudflare&logoColor=F38020)
 
 ## Stats
