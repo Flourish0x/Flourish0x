@@ -2,21 +2,8 @@
 
 `Flourish0x`
 
-![Followers](https://img.shields.io/github/followers/Flourish0x?style=flat-square&logo=github&label=followers&labelColor=21262d&color=7c3aed)
-![Views](https://komarev.com/ghpvc/?username=Flourish0x&style=flat-square&label=profile+views&labelColor=21262d&color=7c3aed)
-
 I’m a self-taught developer mainly working with **JavaScript** and **C#**.  
 I build websites, apps, tools, music-related software, and whatever else seems interesting enough to turn into a project.
-
-## Currently working on
-
-<p align="center">
-  <img src="./assets/valorahub-card.svg" width="100%" alt="Valorahub — private project" />
-</p>
-
-<p align="center">
-  <img src="./assets/vaulted-card.svg" width="100%" alt="Vaulted — private project" />
-</p>
 
 ## My Tech Stack
 
