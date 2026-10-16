@@ -10,8 +10,6 @@ I build websites, apps, tools, music-related software, and whatever else seems i
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-21262D?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![C#](https://img.shields.io/badge/C%23-21262D?style=flat-square&logo=dotnet&logoColor=9B4F96)
-![HTML5](https://img.shields.io/badge/HTML5-21262D?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-21262D?style=flat-square&logo=css3&logoColor=1572B6)
 
 ### Backend / Data
 ![Node.js](https://img.shields.io/badge/Node.js-21262D?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
